@@ -1,2 +1,2 @@
-# Maze-Solver-Robot
-An arduino based robot that utilizes ultrasonic sensors to navigate mazes
+# Arduino Code
+A compilation of arduino code Ive worked with over the years
